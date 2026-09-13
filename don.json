@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "title": "Boutique de badiga",
+    "currency": "DZD",
+    "showStock": true,
+    "ntfyTopic": "badiga_commandes"
+  },
+  "categories": [],
+  "products": []
+}

@@ -5,6 +5,20 @@
     "showStock": true,
     "ntfyTopic": "badiga_commandes"
   },
-  "categories": [],
-  "products": []
+  "categories": [
+    {
+      "id": 1,
+      "name": "pains"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "kesra",
+      "price": 123,
+      "image": "https://res.cloudinary.com/h91be5lz/image/upload/v1789332759/hanout_products/gvnsmw0gloykroxoflgy.png",
+      "categoryId": 1,
+      "stock": 30
+    }
+  ]
 }
